@@ -1,6 +1,8 @@
 from __future__ import division
 import numpy as np
 
+#test
+
 def featureScaling(arr):
     
     if min(arr) == max(arr):
